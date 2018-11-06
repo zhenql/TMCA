@@ -1,5 +1,5 @@
 # TMCA
-Python implementation of the: "Next POI recommendation with Temporal and Multi-level Context Attention" paper.
+Python implementation of the: "Next POI recommendation with Temporal and Multi-level Context Attention" ICDM2018 paper.
 
 ## Dependencies Version
 * python 3.6.4
