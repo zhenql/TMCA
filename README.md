@@ -13,5 +13,5 @@ doi: 10.1109/ICDM.2018.00144
 ## Dataset
 * Gowalla: 
   - The source files: [SNAP](http://snap.stanford.edu/data/loc-gowalla.html)
-  - The category files: [PACE](https://github.com/yangji9181/PACE2017)
+  - The category files: [PACE](https://github.com/yangji9181/PACE2017) or [DRIVE](https://drive.google.com/file/d/1t71hTf3KA1TkQD_mLfs-cD2ueXLBRw7x/view)
 * Yelp: [Round 10 Challenge](https://www.yelp.com/dataset/challenge)
